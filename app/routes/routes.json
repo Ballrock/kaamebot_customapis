@@ -1,0 +1,13 @@
+[{
+		"description": "Return a random quotes from \"La Classe américaine\" (1993), a classic french movie, wrote by Michel Hazanavicius and Dominique Mezerette.",
+		"endpoint": "classeamericaine",
+		"quotesfile": "classeAmericaine",
+		"source": "La Classe américaine (1993)"
+	},
+	{
+		"description": "Return a random \"Developer\" quote.",
+		"endpoint": "devquote",
+		"quotesfile": "devQuote",
+		"source": "DevQuote"
+	}
+]

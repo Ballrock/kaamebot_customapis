@@ -1,0 +1,29 @@
+{
+	"name": "kaamebot_customapis",
+	"version": "1.0.0",
+	"description": "A project to provide customs APIs to Kaamebot",
+	"main": "app.js",
+	"scripts": {
+		"test": "node_modules/.bin/_mocha test/unit/**/*.spec.js",
+		"compile": "node_modules/.bin/tsc",
+		"start": "ts-node  app/app.ts",
+		"dev": "node_modules/.bin/nodemon"
+	},
+	"keywords": [
+		"apis",
+		"kaamebot"
+	],
+	"author": "Antoine Précigout",
+	"license": "MIT",
+	"dependencies": {
+		"@types/restify": "^7.2.6",
+		"bunyan": "^1.8.12",
+		"restify": "^4.1.1"
+	},
+	"devDependencies": {
+		"nodemon": "^1.18.6",
+		"ts-node": "^7.0.1",
+		"tslint": "^5.11.0",
+		"typescript": "^3.1.6"
+	}
+}
