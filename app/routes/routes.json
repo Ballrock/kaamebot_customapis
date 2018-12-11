@@ -13,7 +13,7 @@
 	{
 		"description": "Return a random quote from \"Haddock\", The great captain in 'Les aventures de Tintin' wrote by Hergé.",
 		"endpoint": "haddock",
-		"quotesfile": "Haddock",
+		"quotesfile": "haddock",
 		"source": "Haddock"
 	}
 ]
