@@ -1,0 +1,985 @@
+[{
+		"quote": "amiral de bateau-lavoir",
+		"author": "Haddock"
+	},
+	{
+		"quote": "amphitryon",
+		"author": "Haddock"
+	},
+	{
+		"quote": "anacoluthe",
+		"author": "Haddock"
+	},
+	{
+		"quote": "analphabète",
+		"author": "Haddock"
+	},
+	{
+		"quote": "analphabète diplômé",
+		"author": "Haddock"
+	},
+	{
+		"quote": "anthropophage",
+		"author": "Haddock"
+	},
+	{
+		"quote": "anthropopithèque",
+		"author": "Haddock"
+	},
+	{
+		"quote": "apache",
+		"author": "Haddock"
+	},
+	{
+		"quote": "apophtegme",
+		"author": "Haddock"
+	},
+	{
+		"quote": "apprenti-dictateur à la noix de coco",
+		"author": "Haddock"
+	},
+	{
+		"quote": "astronaute d'eau douce",
+		"author": "Haddock"
+	},
+	{
+		"quote": "autocrate",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Aztèques",
+		"author": "Haddock"
+	},
+	{
+		"quote": "babouin",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bachi-bouzouk",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bachi-bouzouk de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bachi-bouzouk des Carpathes",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande de jeunes effrontés",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande de joyeux drilles",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande d'ectoplasmes de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande d'emplâtres",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande d'enragés",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande d'escrocs",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande d'hurluberlus",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande de bachi-bouzouks",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande de canaques",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande de Ku-Klux-Klans",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande de pirates",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande de sauvages",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande de voleurs",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bande de zapotèques de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bandit",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bayadère de carnaval",
+		"author": "Haddock"
+	},
+	{
+		"quote": "boit-sans-soif",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre d'ectoplasme à roulettes",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre d'ectoplasme de moule à gaufres",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre d'amiral de bateau-lavoir",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre de crème d'emplâtre à la graisse de hérisson",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre d'extrait de cornichon",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre d'extrait de crétin des Alpes",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre d'extrait d'hydrocarbure",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre de faux jeton à la sauce tartare",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre de méchant Blanc",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre de mouchard",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre d'olibrius",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre d'ostrogoth",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre de papou des Carpathes",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre de petit cornichon",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre de phénomène de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre de phénomène de moule à gaufres de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre de sauvage d'aérolithe de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougre de zouave",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bougres de zouaves d'anthropopithèques",
+		"author": "Haddock"
+	},
+	{
+		"quote": "brigand",
+		"author": "Haddock"
+	},
+	{
+		"quote": "brontosaure",
+		"author": "Haddock"
+	},
+	{
+		"quote": "bulldozer à réaction",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cachalot",
+		"author": "Haddock"
+	},
+	{
+		"quote": "calembredaine",
+		"author": "Haddock"
+	},
+	{
+		"quote": "canaille",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cannibale",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cannibale emplumé",
+		"author": "Haddock"
+	},
+	{
+		"quote": "capitaine de bateau lavoir",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cercopithèque",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cercueil volant",
+		"author": "Haddock"
+	},
+	{
+		"quote": "chouette mal empaillée",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cloche à fromage",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cloporte",
+		"author": "Haddock"
+	},
+	{
+		"quote": "clysopompe",
+		"author": "Haddock"
+	},
+	{
+		"quote": "coléoptère",
+		"author": "Haddock"
+	},
+	{
+		"quote": "coloquinte",
+		"author": "Haddock"
+	},
+	{
+		"quote": "coloquinte à la graisse de hérisson",
+		"author": "Haddock"
+	},
+	{
+		"quote": "concentré de moule à gaufres",
+		"author": "Haddock"
+	},
+	{
+		"quote": "coquin",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cornemuse",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cornichon de zouave de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cornichon diplômé",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cow-boy de la route",
+		"author": "Haddock"
+	},
+	{
+		"quote": "crème d'emplâtre à la graisse de hérisson",
+		"author": "Haddock"
+	},
+	{
+		"quote": "crétin de l'Himalaya",
+		"author": "Haddock"
+	},
+	{
+		"quote": "crétin des Alpes",
+		"author": "Haddock"
+	},
+	{
+		"quote": "crétin des Balkans",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cyclone ambulant",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cyclotron",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Cyrano à quatre pattes",
+		"author": "Haddock"
+	},
+	{
+		"quote": "diable de zouave",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Que le diable vous étripatouille",
+		"author": "Haddock"
+	},
+	{
+		"quote": "diplodocus",
+		"author": "Haddock"
+	},
+	{
+		"quote": "doryphore",
+		"author": "Haddock"
+	},
+	{
+		"quote": "écornifleur",
+		"author": "Haddock"
+	},
+	{
+		"quote": "ectoplasme à roulettes",
+		"author": "Haddock"
+	},
+	{
+		"quote": "emplâtré à la graisse de hérisson",
+		"author": "Haddock"
+	},
+	{
+		"quote": "enfonceur de porte ouverte",
+		"author": "Haddock"
+	},
+	{
+		"quote": "épouvantail",
+		"author": "Haddock"
+	},
+	{
+		"quote": "esclavagiste",
+		"author": "Haddock"
+	},
+	{
+		"quote": "escogriffe",
+		"author": "Haddock"
+	},
+	{
+		"quote": "espèce de loup-garou à la graisse de renoncule de mille sabords",
+		"author": "Haddock"
+	},
+	{
+		"quote": "espèce de porc-épic mal embouché",
+		"author": "Haddock"
+	},
+	{
+		"quote": "espèce de mitrailleur à bavette",
+		"author": "Haddock"
+	},
+	{
+		"quote": "extrait d'hydrocarbure",
+		"author": "Haddock"
+	},
+	{
+		"quote": "extrait de cornichon",
+		"author": "Haddock"
+	},
+	{
+		"quote": "face de brute",
+		"author": "Haddock"
+	},
+	{
+		"quote": "fatma de prisunic",
+		"author": "Haddock"
+	},
+	{
+		"quote": "faux frère",
+		"author": "Haddock"
+	},
+	{
+		"quote": "faux jeton à la sauce tartare",
+		"author": "Haddock"
+	},
+	{
+		"quote": "fieffé menteur",
+		"author": "Haddock"
+	},
+	{
+		"quote": "flibustier",
+		"author": "Haddock"
+	},
+	{
+		"quote": "flibustier de carnaval",
+		"author": "Haddock"
+	},
+	{
+		"quote": "forban",
+		"author": "Haddock"
+	},
+	{
+		"quote": "fourbe",
+		"author": "Haddock"
+	},
+	{
+		"quote": "garde-côtes à la mie de pain",
+		"author": "Haddock"
+	},
+	{
+		"quote": "gibier de potence",
+		"author": "Haddock"
+	},
+	{
+		"quote": "goujat",
+		"author": "Haddock"
+	},
+	{
+		"quote": "graisse de hérisson",
+		"author": "Haddock"
+	},
+	{
+		"quote": "graisse de trombone à coulisse",
+		"author": "Haddock"
+	},
+	{
+		"quote": "gredin",
+		"author": "Haddock"
+	},
+	{
+		"quote": "gros-plein-de-soupe",
+		"author": "Haddock"
+	},
+	{
+		"quote": "grotesque polichinelle",
+		"author": "Haddock"
+	},
+	{
+		"quote": "hérétique",
+		"author": "Haddock"
+	},
+	{
+		"quote": "hurluberlu",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Inca de carnaval",
+		"author": "Haddock"
+	},
+	{
+		"quote": "invertébré",
+		"author": "Haddock"
+	},
+	{
+		"quote": "ivrogne",
+		"author": "Haddock"
+	},
+	{
+		"quote": "jet d'eau ambulant",
+		"author": "Haddock"
+	},
+	{
+		"quote": "jocrisse",
+		"author": "Haddock"
+	},
+	{
+		"quote": "judas",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Kanak",
+		"author": "Haddock"
+	},
+	{
+		"quote": "lépidoptère",
+		"author": "Haddock"
+	},
+	{
+		"quote": "loup-garou à la graisse de renoncule de mille tonnerres de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "macaque",
+		"author": "Haddock"
+	},
+	{
+		"quote": "malotru",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Mamelouk",
+		"author": "Haddock"
+	},
+	{
+		"quote": "marchand de guano",
+		"author": "Haddock"
+	},
+	{
+		"quote": "marchand de tapis",
+		"author": "Haddock"
+	},
+	{
+		"quote": "marin d'eau douce",
+		"author": "Haddock"
+	},
+	{
+		"quote": "marmotte mal réveillée",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mégalomane",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mercanti",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mérinos",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mérinos mal peignés",
+		"author": "Haddock"
+	},
+	{
+		"quote": "migou de malheur",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille milliards de mille millions de mille sabords",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille milliards de mille sabords",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille milliards de mille sabords de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille milliards de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille millions de mille milliards de mille sabords",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille millions de mille milliards de mille sabords de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille millions de mille sabords",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille millions de mille sabords de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille millions de sabords",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille millions de tonnerres de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille sabords",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mille tonnerres de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "misérable",
+		"author": "Haddock"
+	},
+	{
+		"quote": "misérable ectoplasme",
+		"author": "Haddock"
+	},
+	{
+		"quote": "misérable ver de terre",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mitrailleur à bavette",
+		"author": "Haddock"
+	},
+	{
+		"quote": "morues dans un carton à chapeau",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mouchard",
+		"author": "Haddock"
+	},
+	{
+		"quote": "moujik",
+		"author": "Haddock"
+	},
+	{
+		"quote": "moule à gaufres",
+		"author": "Haddock"
+	},
+	{
+		"quote": "mufle",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Mussolini de carnaval",
+		"author": "Haddock"
+	},
+	{
+		"quote": "négrier",
+		"author": "Haddock"
+	},
+	{
+		"quote": "noix de coco",
+		"author": "Haddock"
+	},
+	{
+		"quote": "nom d'une pipe",
+		"author": "Haddock"
+	},
+	{
+		"quote": "nyctalope",
+		"author": "Haddock"
+	},
+	{
+		"quote": "ornithorynque",
+		"author": "Haddock"
+	},
+	{
+		"quote": "ostrogoth",
+		"author": "Haddock"
+	},
+	{
+		"quote": "ours mal léché",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Pachyderme",
+		"author": "Haddock"
+	},
+	{
+		"quote": "papou des Carpathes",
+		"author": "Haddock"
+	},
+	{
+		"quote": "parasites",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Patagon",
+		"author": "Haddock"
+	},
+	{
+		"quote": "patagon de zoulou",
+		"author": "Haddock"
+	},
+	{
+		"quote": "patapouf",
+		"author": "Haddock"
+	},
+	{
+		"quote": "patate",
+		"author": "Haddock"
+	},
+	{
+		"quote": "pauvre bougre",
+		"author": "Haddock"
+	},
+	{
+		"quote": "peau-rouge",
+		"author": "Haddock"
+	},
+	{
+		"quote": "péronnelle",
+		"author": "Haddock"
+	},
+	{
+		"quote": "vieille perruche bavarde",
+		"author": "Haddock"
+	},
+	{
+		"quote": "perroquet déplumé",
+		"author": "Haddock"
+	},
+	{
+		"quote": "phylactère",
+		"author": "Haddock"
+	},
+	{
+		"quote": "phylloxéra",
+		"author": "Haddock"
+	},
+	{
+		"quote": "pignouf",
+		"author": "Haddock"
+	},
+	{
+		"quote": "pleurnichard",
+		"author": "Haddock"
+	},
+	{
+		"quote": "porc-épic mal embouché",
+		"author": "Haddock"
+	},
+	{
+		"quote": "protozoaire",
+		"author": "Haddock"
+	},
+	{
+		"quote": "rapace",
+		"author": "Haddock"
+	},
+	{
+		"quote": "renégat",
+		"author": "Haddock"
+	},
+	{
+		"quote": "rhizopode",
+		"author": "Haddock"
+	},
+	{
+		"quote": "sacré mitrailleur à bavette",
+		"author": "Haddock"
+	},
+	{
+		"quote": "sacripant",
+		"author": "Haddock"
+	},
+	{
+		"quote": "sale bête",
+		"author": "Haddock"
+	},
+	{
+		"quote": "sale vilaine bête de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "saltimbanque",
+		"author": "Haddock"
+	},
+	{
+		"quote": "sapajou",
+		"author": "Haddock"
+	},
+	{
+		"quote": "sauvage",
+		"author": "Haddock"
+	},
+	{
+		"quote": "sauvage d'aérolithe",
+		"author": "Haddock"
+	},
+	{
+		"quote": "scélérat",
+		"author": "Haddock"
+	},
+	{
+		"quote": "schizophrène",
+		"author": "Haddock"
+	},
+	{
+		"quote": "scolopendre",
+		"author": "Haddock"
+	},
+	{
+		"quote": "simili-Martien à la graisse de cabestan",
+		"author": "Haddock"
+	},
+	{
+		"quote": "sombre oryctérope",
+		"author": "Haddock"
+	},
+	{
+		"quote": "soulographe",
+		"author": "Haddock"
+	},
+	{
+		"quote": "sous-produit d'ectoplasme",
+		"author": "Haddock"
+	},
+	{
+		"quote": "tas de cornichons",
+		"author": "Haddock"
+	},
+	{
+		"quote": "tas de sauvages",
+		"author": "Haddock"
+	},
+	{
+		"quote": "tchouk-tchouk-nougat",
+		"author": "Haddock"
+	},
+	{
+		"quote": "terroriste",
+		"author": "Haddock"
+	},
+	{
+		"quote": "tête de lard",
+		"author": "Haddock"
+	},
+	{
+		"quote": "tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "tonnerre de tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "topinambour",
+		"author": "Haddock"
+	},
+	{
+		"quote": "tortionnaire",
+		"author": "Haddock"
+	},
+	{
+		"quote": "trafiquant de chair humaine",
+		"author": "Haddock"
+	},
+	{
+		"quote": "traîne-potence",
+		"author": "Haddock"
+	},
+	{
+		"quote": "troglodyte",
+		"author": "Haddock"
+	},
+	{
+		"quote": "trompe-la-mort",
+		"author": "Haddock"
+	},
+	{
+		"quote": "troufignol",
+		"author": "Haddock"
+	},
+	{
+		"quote": "va-nu-pieds",
+		"author": "Haddock"
+	},
+	{
+		"quote": "ver de terre",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Vercingétorix de carnaval",
+		"author": "Haddock"
+	},
+	{
+		"quote": "vieille baderne",
+		"author": "Haddock"
+	},
+	{
+		"quote": "vieille coque rouillée",
+		"author": "Haddock"
+	},
+	{
+		"quote": "vieille marmotte",
+		"author": "Haddock"
+	},
+	{
+		"quote": "vieille perruche bavarde",
+		"author": "Haddock"
+	},
+	{
+		"quote": "vieux rafiot",
+		"author": "Haddock"
+	},
+	{
+		"quote": "vipère",
+		"author": "Haddock"
+	},
+	{
+		"quote": "vivisectionniste",
+		"author": "Haddock"
+	},
+	{
+		"quote": "volatile de malheur",
+		"author": "Haddock"
+	},
+	{
+		"quote": "voleur d'enfants",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Wisigoths",
+		"author": "Haddock"
+	},
+	{
+		"quote": "zèbre",
+		"author": "Haddock"
+	},
+	{
+		"quote": "zigomar",
+		"author": "Haddock"
+	},
+	{
+		"quote": "zouave",
+		"author": "Haddock"
+	},
+	{
+		"quote": "zouave interplanétaire",
+		"author": "Haddock"
+	},
+	{
+		"quote": "zouave à la noix de coco",
+		"author": "Haddock"
+	},
+	{
+		"quote": "Zoulou",
+		"author": "Haddock"
+	},
+	{
+		"quote": "anthropopithèque",
+		"author": "Haddock"
+	},
+	{
+		"quote": "flibustier de carnaval",
+		"author": "Haddock"
+	},
+	{
+		"quote": "moule à gaufres",
+		"author": "Haddock"
+	},
+	{
+		"quote": "tonnerre de Brest",
+		"author": "Haddock"
+	},
+	{
+		"quote": "vieux cachalot",
+		"author": "Haddock"
+	},
+	{
+		"quote": "vieux cornichon",
+		"author": "Haddock"
+	},
+	{
+		"quote": "boit-sans-soif",
+		"author": "Haddock"
+	},
+	{
+		"quote": "cornichon",
+		"author": "Haddock"
+	}
+]
