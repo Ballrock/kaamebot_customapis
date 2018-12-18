@@ -1,7 +1,12 @@
 // Place your settings in this file to overwrite default and user settings.
 {
 	"explorer.openEditors.visible": 0,
-	"cSpell.enabledLanguageIds": [
-		"markdown"
-	]
+	"cSpell.enabledLanguageIds": ["markdown"],
+	"prettier.singleQuote": true,
+	"editor.wordWrap": "on",
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": true,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 4
 }
