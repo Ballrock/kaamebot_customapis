@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"description": "Return a random quotes from \"La Classe américaine\" (1993), a classic french movie, wrote by Michel Hazanavicius and Dominique Mezerette.",
 		"endpoint": "classeamericaine",
 		"quotesfile": "classeAmericaine",
@@ -14,6 +15,6 @@
 		"description": "Return a random quote from \"Haddock\", The great captain in 'Les aventures de Tintin' wrote by Hergé.",
 		"endpoint": "haddock",
 		"quotesfile": "haddock",
-		"source": "Haddock"
+		"source": "Les aventures de Tintin"
 	}
 ]
