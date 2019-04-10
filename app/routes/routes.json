@@ -16,5 +16,11 @@
 		"endpoint": "haddock",
 		"quotesfile": "haddock",
 		"source": "Les aventures de Tintin"
+	},
+	{
+		"description": "Return a random quote from \"Alexandre Galerne\", The best Judas in the world.",
+		"endpoint": "aga",
+		"quotesfile": "aga",
+		"source": "Alexandre Galerne"
 	}
 ]
